@@ -1,0 +1,15 @@
+[submodule "scribe-ts"]
+	path = scribe-ts
+	url = https://bitbucket.org/mindplaydk/scribe-ts.git
+[submodule "weather-api"]
+	path = weather-api
+	url = ssh://git@github.com:Haringat/weather-api
+[submodule "weather-worker-dwd-convert"]
+	path = weather-worker-dwd-convert
+	url = ssh://git@github.com:Haringat/weather-worker-dwd-convert
+[submodule "weather-worker-dwd-serialize"]
+	path = weather-worker-dwd-serialize
+	url = ssh://git@github.com:Haringat/weather-worker-dwd-serialize
+[submodule "weather-worker-push"]
+	path = weather-worker-push
+	url = ssh://git@github.com:Haringat/weather-worker-push
