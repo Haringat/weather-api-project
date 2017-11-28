@@ -1,6 +1,3 @@
-[submodule "scribe-ts"]
-	path = scribe-ts
-	url = https://bitbucket.org/mindplaydk/scribe-ts.git
 [submodule "weather-api"]
 	path = weather-api
 	url = https://github.com/Haringat/weather-api.git
@@ -13,3 +10,9 @@
 [submodule "weather-worker-push"]
 	path = weather-worker-push
 	url = https://github.com/Haringat/weather-worker-push.git
+[submodule "scribe.js"]
+	path = scribe.js
+	url = https://github.com/Haringat/scribe.js
+[submodule "async-tools"]
+	path = async-tools
+	url = https://github.com/Haringat/js-async-tools
