@@ -16,3 +16,6 @@
 [submodule "async-tools"]
 	path = async-tools
 	url = https://github.com/Haringat/js-async-tools
+[submodule "swagger-ui"]
+	path = swagger-ui
+	url = https://github.com/swagger-api/swagger-ui
