@@ -10,6 +10,3 @@
 [submodule "async-tools"]
 	path = async-tools
 	url = https://github.com/Haringat/js-async-tools
-[submodule "weather-worker-dwd-serialize"]
-	path = weather-worker-dwd-serialize
-	url = https://github.com/Haringat/weather-worker-dwd.git
