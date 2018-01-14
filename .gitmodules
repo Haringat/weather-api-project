@@ -2,7 +2,7 @@
 	path = weather-api
 	url = https://github.com/Haringat/weather-api.git
 [submodule "weather-worker-dwd"]
-	path = weather-worker-dwd-serialize
+	path = weather-worker-dwd
 	url = https://github.com/Haringat/weather-worker-dwd.git
 [submodule "scribe.js"]
 	path = scribe.js
@@ -10,3 +10,6 @@
 [submodule "async-tools"]
 	path = async-tools
 	url = https://github.com/Haringat/js-async-tools
+[submodule "weather-worker-dwd-serialize"]
+	path = weather-worker-dwd-serialize
+	url = https://github.com/Haringat/weather-worker-dwd.git
